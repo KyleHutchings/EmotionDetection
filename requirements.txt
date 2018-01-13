@@ -1,0 +1,5 @@
+nltk
+pyenchant
+tqdm
+pandas_ml
+matplotlib
