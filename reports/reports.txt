@@ -1,0 +1,3 @@
+Reports are used to look into the details of every single evaluaton. Each entry will display
+words found, the overall probability for each emotion then the predicted emotion and if possible
+the correct emotion if provided.

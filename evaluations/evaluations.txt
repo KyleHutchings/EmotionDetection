@@ -1,0 +1,1 @@
+evaluations dislays the tweet id and the predicted emotion and all the percentages for the other emotions.
