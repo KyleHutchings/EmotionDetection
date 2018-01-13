@@ -1,0 +1,31 @@
+Predicted   Boredom  Empty  Enthusiasm  Fun  Happiness  Hate  Love  Neutral  \
+Actual                                                                        
+Boredom           0      0           0    0          0     0     0        2   
+Empty             0      6           0    0          0     0     0        2   
+Enthusiasm        0      0           1    0          0     0     0        0   
+Fun               0      0           0    4          0     1     0        2   
+Happiness         0      0           0    0          7     0     0        3   
+Hate              0      0           0    0          0    22     0        4   
+Love              0      0           0    0          0     0     7        1   
+Neutral           0      0           0    0          0     0     0      100   
+Relief            0      0           0    0          0     0     0        2   
+Sadness           0      0           0    0          0     0     0        3   
+Surprise          0      0           0    0          0     0     0        2   
+Worry             0      0           0    0          0     0     0        5   
+__all__           0      6           1    4          7    23     7      126   
+
+Predicted   Relief  Sadness  Surprise  Worry  __all__  
+Actual                                                 
+Boredom          0        1         0      0        3  
+Empty            0        0         0      4       12  
+Enthusiasm       0        3         0      1        5  
+Fun              0        1         0      1        9  
+Happiness        0        1         0      2       13  
+Hate             0        5         0      1       32  
+Love             0        3         0      1       12  
+Neutral          0       11         0      3      114  
+Relief           2        0         0      2        6  
+Sadness          0      110         0      9      122  
+Surprise         0        4         5      8       19  
+Worry            0        8         0    124      137  
+__all__          2      147         5    156      484  
