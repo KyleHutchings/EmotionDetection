@@ -20,6 +20,8 @@ Bio:
 Requirements:
  This software was developed using python2 and as such may have issues when being run
  with python3.
+ 
+ If using Windows make sure the installation of Python is 32-bit.
 
  There are a number of required packages that must be installed to run this software.
  These packages are found in the "requirements.txt" file and can be installed from
